@@ -1,9 +1,9 @@
 export const data = [
     {
        "image": {
-            "thumbnail": "/images/image-waffle-thumbnail.jpg",
-            "mobile": "/images/image-waffle-mobile.jpg",
-            "tablet": "/images/image-waffle-tablet.jpg",
+            "thumbnail": "images/image-waffle-thumbnail.jpg",
+            "mobile": "images/image-waffle-mobile.jpg",
+            "tablet": "images/image-waffle-tablet.jpg",
             "desktop": "images/image-waffle-desktop.jpg"
        },
        "name": "Waffle with Berries",
@@ -12,9 +12,9 @@ export const data = [
     },
     {
         "image": {
-            "thumbnail": "/images/image-creme-brulee-thumbnail.jpg",
-            "mobile": "/images/image-creme-brulee-mobile.jpg",
-            "tablet": "/images/image-creme-brulee-tablet.jpg",
+            "thumbnail": "images/image-creme-brulee-thumbnail.jpg",
+            "mobile": "images/image-creme-brulee-mobile.jpg",
+            "tablet": "images/image-creme-brulee-tablet.jpg",
             "desktop": "images/image-creme-brulee-desktop.jpg"
         },
         "name": "Vanilla Bean Crème Brûlée",
@@ -23,9 +23,9 @@ export const data = [
      },
      {
         "image": {
-            "thumbnail": "/images/image-macaron-thumbnail.jpg",
-            "mobile": "/images/image-macaron-mobile.jpg",
-            "tablet": "/images/image-macaron-tablet.jpg",
+            "thumbnail": "images/image-macaron-thumbnail.jpg",
+            "mobile": "images/image-macaron-mobile.jpg",
+            "tablet": "images/image-macaron-tablet.jpg",
             "desktop": "images/image-macaron-desktop.jpg"
         },
         "name": "Macaron Mix of Five",
@@ -34,9 +34,9 @@ export const data = [
      },
      {
         "image": {
-            "thumbnail": "./images/image-tiramisu-thumbnail.jpg",
-            "mobile": "/images/image-tiramisu-mobile.jpg",
-            "tablet": "/images/image-tiramisu-tablet.jpg",
+            "thumbnail": ".images/image-tiramisu-thumbnail.jpg",
+            "mobile": "images/image-tiramisu-mobile.jpg",
+            "tablet": "images/image-tiramisu-tablet.jpg",
             "desktop": "images/image-tiramisu-desktop.jpg"
         },
         "name": "Classic Tiramisu",
@@ -45,9 +45,9 @@ export const data = [
      },
      {
         "image": {
-            "thumbnail": "/images/image-baklava-thumbnail.jpg",
-            "mobile": "/images/image-baklava-mobile.jpg",
-            "tablet": "/images/image-baklava-tablet.jpg",
+            "thumbnail": "images/image-baklava-thumbnail.jpg",
+            "mobile": "images/image-baklava-mobile.jpg",
+            "tablet": "images/image-baklava-tablet.jpg",
             "desktop": "images/image-baklava-desktop.jpg"
         },
         "name": "Pistachio Baklava",
@@ -56,9 +56,9 @@ export const data = [
      },
      {
         "image": {
-            "thumbnail": "/images/image-meringue-thumbnail.jpg",
-            "mobile": "/images/image-meringue-mobile.jpg",
-            "tablet": "/images/image-meringue-tablet.jpg",
+            "thumbnail": "images/image-meringue-thumbnail.jpg",
+            "mobile": "images/image-meringue-mobile.jpg",
+            "tablet": "images/image-meringue-tablet.jpg",
             "desktop": "images/image-meringue-desktop.jpg"
         },
         "name": "Lemon Meringue Pie",
@@ -67,9 +67,9 @@ export const data = [
      },
      {
         "image": {
-            "thumbnail": "/images/image-cake-thumbnail.jpg",
-            "mobile": "/images/image-cake-mobile.jpg",
-            "tablet": "/images/image-cake-tablet.jpg",
+            "thumbnail": "images/image-cake-thumbnail.jpg",
+            "mobile": "images/image-cake-mobile.jpg",
+            "tablet": "images/image-cake-tablet.jpg",
             "desktop": "images/image-cake-desktop.jpg"
         },
         "name": "Red Velvet Cake",
@@ -78,9 +78,9 @@ export const data = [
      },
      {
         "image": {
-            "thumbnail": "/images/image-brownie-thumbnail.jpg",
-            "mobile": "/images/image-brownie-mobile.jpg",
-            "tablet": "/images/image-brownie-tablet.jpg",
+            "thumbnail": "images/image-brownie-thumbnail.jpg",
+            "mobile": "images/image-brownie-mobile.jpg",
+            "tablet": "images/image-brownie-tablet.jpg",
             "desktop": "images/image-brownie-desktop.jpg"
         },
         "name": "Salted Caramel Brownie",
@@ -89,9 +89,9 @@ export const data = [
      },
      {
         "image": {
-            "thumbnail": "/images/image-panna-cotta-thumbnail.jpg",
-            "mobile": "/images/image-panna-cotta-mobile.jpg",
-            "tablet": "/images/image-panna-cotta-tablet.jpg",
+            "thumbnail": "images/image-panna-cotta-thumbnail.jpg",
+            "mobile": "images/image-panna-cotta-mobile.jpg",
+            "tablet": "images/image-panna-cotta-tablet.jpg",
             "desktop": "images/image-panna-cotta-desktop.jpg"
         },
         "name": "Vanilla Panna Cotta",
