@@ -27,10 +27,7 @@ export default function Cart({
 
       {cartItemsCount === 0 ? (
         <div className="empty-cart">
-          <img
-            src="./public/images/illustration-empty-cart.svg"
-            alt="Empty Cart"
-          />
+          <img src="images/illustration-empty-cart.svg" alt="Empty Cart" />
           <p>Your added items will appear here</p>
         </div>
       ) : (
